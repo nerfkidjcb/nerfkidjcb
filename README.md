@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi!
+
+## Check this out
+- [My website](https://camtonwebservices.com)
+
+## Service Monitor
+My new open source repo/toolkit for monitoring uptime and resources
+
+
+
 
 <!--
 **nerfkidjcb/nerfkidjcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
