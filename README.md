@@ -3,13 +3,13 @@
 Nice to see you :) 
 
 ## Check Out My Website
-I have a website [My Website](https://joebroughton.tech). You'll find additional stuff about my projects and achievements there.
+I have a [website](https://joebroughton.tech). You'll find additional stuff about my projects and achievements there.
 
 ## Service Monitor
-My new open-source repo/toolkit called Service Monitor. This tool enables me to monitor uptime and resources locally. [Service Monitor](https://github.com/nerfkidjcb/ServiceMonitor).
+My new open-source repo/toolkit called [Service Monitor](https://github.com/nerfkidjcb/ServiceMonitor). This tool enables me to monitor uptime and resources locally. 
 
 ## Electric Trains
-I love Factorio, and I like trains, so I built a mod. [Electric Trains](https://github.com/nerfkidjcb/electric-trains)
+I love Factorio, and I like trains, so I built a mod. Check it out [here](https://github.com/nerfkidjcb/electric-trains).
 
 <!-- 
 - 🔭 I’m currently working on ...
