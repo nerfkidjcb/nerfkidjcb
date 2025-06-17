@@ -9,7 +9,7 @@ I have a [website](https://joebroughton.tech). You'll find additional stuff abou
 My new open-source org called [PocketChat](https://github.com/PocketChat). Building self hostable, E2EE, zero-trust portable messaging system.
 
 ## Electric Trains
-I love Factorio, and I like trains, so I built a mod. Check it out [here](https://github.com/nerfkidjcb/electric-trains).
+I love Factorio, and I like trains, so I built a mod. Turns out 15,000 others like those things too. Check it out [here](https://github.com/nerfkidjcb/electric-trains).
 
 <!-- 
 - 🔭 I’m currently working on ...
