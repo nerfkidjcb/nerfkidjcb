@@ -5,8 +5,8 @@ Nice to see you :)
 ## Check Out My Website
 I have a [website](https://joebroughton.tech). You'll find additional stuff about my projects and achievements there.
 
-## Service Monitor
-My new open-source repo/toolkit called [Service Monitor](https://github.com/nerfkidjcb/ServiceMonitor). This tool enables me to monitor uptime and resources locally. 
+## PocketChat
+My new open-source org called [PocketChat](https://github.com/PocketChat). Building self hostable, E2EE, zero-trust portable messaging system.
 
 ## Electric Trains
 I love Factorio, and I like trains, so I built a mod. Check it out [here](https://github.com/nerfkidjcb/electric-trains).
@@ -22,7 +22,7 @@ I love Factorio, and I like trains, so I built a mod. Check it out [here](https:
 - ⚡ Fun fact: ...
 -->
 ### Contact
-If you have any questions, want to collaborate, or want to connect, be sure to reach out!
+If you have any questions, want to collaborate, or want to connect, be sure to [reach out!](mailto:joe@moored.to)
 
 
 Cheers,  
